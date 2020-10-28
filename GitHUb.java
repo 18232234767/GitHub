@@ -2,6 +2,6 @@
 public class GitHUb {
 
 	public static void main(String[] args) {
-		System.out.println("您好第一个123465");
+		System.out.println("浣犲ソ123465");
 	}
 }
